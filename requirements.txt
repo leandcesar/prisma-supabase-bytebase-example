@@ -1,0 +1,4 @@
+black
+prisma
+pytest
+ruff
